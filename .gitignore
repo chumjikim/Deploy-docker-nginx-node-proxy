@@ -11,6 +11,8 @@ local_settings.py
 db.sqlite3
 media
 .idea/
+Dockerfile.*
+
 
 ### PyCharm ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
